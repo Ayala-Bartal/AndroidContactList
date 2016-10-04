@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    tools:context=".ViewContact">>
+
+    <item android:id="@+id/back__to_contact_list" android:title="Back to contact list"
+        android:orderInCategory="100" app:showAsAction="never"/>
+
+    <item android:id="@+id/back_to_menu" android:title="Back to main menu"
+        android:orderInCategory="100" app:showAsAction="never"/>
+
+    <item android:id="@+id/edit" android:title="Edit"
+        android:orderInCategory="100" app:showAsAction="never"/>
+
+
+
+
+
+</menu>

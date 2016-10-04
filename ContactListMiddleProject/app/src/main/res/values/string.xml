@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ContactListt</string>
+    <string name="add_contact">Add contact</string>
+    <string name="view_a_contact">View contact</string>
+    <string name="full_name">Full name:</string>
+    <string name="tel_number">Tel number:</string>
+    <string name="address">Address:</string>
+    <string name="email">Email:</string>
+    <string name="pic">Picture:</string>
+    <string name="web">Website:</string>
+    <string name="date_of_birth">Date of birth:</string>
+    <string name="calling_hours">Calling Hours:</string>
+    <string name="preferred_day">Preferred days:</string>
+    <string-array name="days">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>friday</item>
+        <item>Saturday</item>
+    </string-array>
+    <string-array name="hours">
+        <item>00:00-04:00</item>
+        <item>04:00-08:00</item>
+        <item>08:00-12:00</item>
+        <item>12:00-16:00</item>
+        <item>16:00-20:00</item>
+        <item>20:00-00:00</item>
+    </string-array>
+
+</resources>
